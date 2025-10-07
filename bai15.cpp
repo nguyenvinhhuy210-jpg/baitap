@@ -19,7 +19,7 @@ int main(){
     else{
         for (int i = 1; i <= n; i++)
             {
-             z +=  + i;
+             z +=   i;
 
 
              S = S +(1.0/z) ;
@@ -28,6 +28,7 @@ int main(){
     }
     return 0;
 }
+
 
 
 
